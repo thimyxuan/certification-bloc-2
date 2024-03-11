@@ -10,9 +10,8 @@ Ce dossier contient les deux projets pour la validation du bloc 2 de la certific
 
 ## Certification 
 
-**Concepteur - Développeur en Science des Données**   
-
-**Bloc 2 : Analyse exploratoire, descriptive et inférentielle de données**
+Concepteur - Développeur en Science des Données   
+Bloc 2 : Analyse exploratoire, descriptive et inférentielle de données
 
 Thème de l'évaluation :
 
