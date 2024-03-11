@@ -2,14 +2,18 @@
 
 Ce dossier contient les deux projets pour la validation du bloc 2 de la certification :
 
-1. Projet 1 : Tinder
-2. Projet 2 : Steam
+- Projet 1 : Tinder
 
-## Certification Concepteur - Développeur en Science des Données
+- Projet 2 : Steam
 
-### Bloc 2 : Analyse exploratoire, descriptive et inférentielle de données
+---
 
-#### Thème de l'évaluation
+## Certification 
+
+Concepteur - Développeur en Science des Données  
+Bloc 2 : Analyse exploratoire, descriptive et inférentielle de données
+
+Thème de l'évaluation :
 
 - Gestion de valeurs manquantes et aberrantes d'une base de données non-massives puis analyse pour déterminer et présenter des tendances par le biais de graphiques.
     
