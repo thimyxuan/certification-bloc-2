@@ -1,9 +1,11 @@
+## Objet
+
+Ce dossier contient les deux projets pour la validation du bloc 2 de la certification :
+
+1. Projet 1 : Tinder
+2. Projet 2 : Steam
+
 ## Certification Concepteur - Développeur en Science des Données
-
-Ce dossier contient les 2 projets pour la validation du bloc 2 de la certification :
-
-- Projet 1 : Tinder
-- Projet 2 : Steam
 
 ### Bloc 2 : Analyse exploratoire, descriptive et inférentielle de données
 
